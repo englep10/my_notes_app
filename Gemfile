@@ -43,3 +43,10 @@ group :development, :test do
   gem 'spring'
 end
 
+
+
+gem 'haml'
+gem 'pry-rails'
+gem 'simple_form'
+gem 'devise'
+
